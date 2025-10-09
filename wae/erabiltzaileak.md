@@ -4,6 +4,8 @@ description: 'Nola sortu erabiltzaileak eta izango duten baimenak:'
 
 # Erabiltzaileak
 
+Web orria erabiltzaileak ditu, batzuek besteak baino baimen gehiagorekin. Modu honetan erabiltzaile desberdinak web orri bera editatzen egongo dira. Partekatzeko modu bezala ere erabiltzen da.
+
 **-Erabiltzaileak gehitu:**
 
 <figure><img src="../.gitbook/assets/unknown (10).png" alt="" width="562"><figcaption></figcaption></figure>
