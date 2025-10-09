@@ -15,3 +15,7 @@ sudo systemctl start mariadb
 sudo systemctl status mariadb
 
 <img src="../.gitbook/assets/unknown.png" alt="" data-size="original">
+
+sudo mysql_secure_installation
+
+**Set root password:** PayoServer

@@ -2,7 +2,7 @@
 
 * [Sarrera](README.md)
 * [Datubase](datubase/README.md)
-  * [Datu basearen buruz](datubase/datubasearen-buruz.md)
+  * [Datu basearen buruz](datubase/datu-basearen-buruz.md)
   * [Datu basea instalatu](datubase/datu-basea-instalatu.md)
   * [Datu basea sortu](datubase/adibideak.md)
 * [Zerbitzuak](zerbitzuak/README.md)
