@@ -1,3 +1,3 @@
-# Konfigurazioa
+# Jasangarritasun-plana
 
 Zerbitzuen konfigurazioaren xehetasunak.

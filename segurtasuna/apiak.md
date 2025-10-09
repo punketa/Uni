@@ -1,3 +1,0 @@
-# APIak
-
-Zerbitzuen APIen azalpenak.

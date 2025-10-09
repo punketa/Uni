@@ -1,3 +1,0 @@
-# Segurtasuna
-
-Zerbitzuen segurtasun-neurriak.
