@@ -4,6 +4,8 @@ description: 'Wordpress instalatzeko pausuak:'
 
 # Wordpress instalatu
 
+Hasiera batean ubuntun egiten hasi ginen, baina isard eta internet arazoak direla eta localhost egitea hobea dela pentsatu dugu.
+
 -**Wordpress Ubuntun**
 
 * **DB:**
