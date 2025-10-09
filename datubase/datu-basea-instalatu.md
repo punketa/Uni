@@ -1,6 +1,8 @@
-# Datu basea instalatu
+---
+description: 'Datu-basearen instalatzeko pausuak:'
+---
 
-Datu-basearen instalatzeko pausuak.
+# Datu basea instalatu
 
 **-MariaDB Ubuntu 24.04.01 instalatu:**
 
@@ -14,8 +16,36 @@ sudo systemctl start mariadb
 
 sudo systemctl status mariadb
 
-<img src="../.gitbook/assets/unknown.png" alt="" data-size="original">
+<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
-sudo mysql_secure_installation
+sudo mysql\_secure\_installation
 
 **Set root password:** PayoServer
+
+<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+
+**-Erroreak:**
+
+Ez da izan errore bat generalean, baina datu basea egiterakoan eta erabiltzaileak sortzerakoan @’localhost’ beharrean @’payo.eus’ jarri dugu. Beraz, erabaki dugu berriz instalatzea MariaDB:
+
+sudo systemctl stop mariadb
+
+sudo apt remove --purge mariadb-server mariadb-client -y
+
+sudo apt autoremove -y
+
+sudo apt autoclean
+
+sudo rm -rf /var/lib/mysql
+
+sudo rm -rf /etc/mysql
+
+
+
+**-MariaDB localean instalatu:**
+
+-Aurkitu linka eta deskargatu.
+
+<figure><img src="../.gitbook/assets/unknown (2).png" alt="" width="469"><figcaption></figcaption></figure>
+
+\
