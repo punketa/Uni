@@ -1,5 +1,5 @@
 ---
-description: Datu-basearen instalatzeko pausuak.
+description: 'Datu-basearen instalatzeko pausuak:'
 ---
 
 # Datu basea instalatu
@@ -23,8 +23,6 @@ sudo mysql\_secure\_installation
 **Set root password:** PayoServer
 
 <figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 **-Erroreak:**
 
