@@ -3,7 +3,7 @@
 * [Sarrera](README.md)
 * [Datubase](datubase/README.md)
   * [Datubasearen buruz](datubase/datubasearen-buruz.md)
-  * [Eragiketak](datubase/eragiketak.md)
+  * [Datu basea instalatu](datubase/eragiketak.md)
   * [Adibideak](datubase/adibideak.md)
 * [Zerbitzuak](zerbitzuak/README.md)
   * [APIak](zerbitzuak/apiak.md)
