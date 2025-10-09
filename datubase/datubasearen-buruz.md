@@ -1,4 +1,4 @@
-# Datubasearen buruz
+# Datu basearen buruz
 
 **Zein datu base aukeratu dugu?**
 
