@@ -6,7 +6,7 @@ Gure empresaren datuak gordetzeko MariaDB datu-basea erabiltzea aukeratu dugu.
 
 Zergatik aukeratu dugu MariaDB?:
 
-MariaDB WordPresserako aukera onenetako bat da, bateragarritasuna, errendimendua eta Ubuntun erabiltzeko erraztasuna direla eta. MySQL baino handiagoa da optimizazioei eta lizentzia irekiari dagokienez, eta egokiagoa da datu-base erlazional sinple eta eraginkorra behar duten WordPress bezalako aplikazioetarako. 
+MariaDB WordPresserako aukera onenetako bat da, bateragarritasuna, errendimendua eta Ubuntun erabiltzeko erraztasuna direla eta. MySQL baino handiagoa da optimizazioei eta lizentzia irekiari dagokienez, eta egokiagoa da datu-base erlazional sinple eta eraginkorra behar duten WordPress bezalako aplikazioetarako. <br>
 Horrez gain, datu base honekin lotutako ariketak egin ditugu klasean eta gure enpresa unibertsitatearen zerbitzua ematen duenez uste dugu datu base egokiena dela bere datu estrukturatuak gatik.
 
 Datu base honek ez dauka tamaina handia, ez ditu eskakizun asko hardware aldetik. Bere desabantail handiena bere errendimendua txikia izan daitekela datu base handietan, baina ez da gure kasua.
@@ -15,14 +15,14 @@ Datu base honek ez dauka tamaina handia, ez ditu eskakizun asko hardware aldetik
 
 Aipatu dugun bezala, datu asko izango ditugu eta horiek seguru mantendu nahi baditugu, aldez aurretik finkatu behar ditugu zeintzuk izango duten baimenak datu basea editatzeko, ikusteko, ezabatzeko... Atal honetan sartzen dira ROLAK eta ERABILTZAILEAK.
 
-7 erabiltzaile sortuko ditugu: 1 admin / 2 irakasle / 4 ikasle
+7 erabiltzaile sortuko ditugu: 1 admin / 2 irakasle / 4 ikasle <br>
 Baimenak rolen eta taulen arabera jarri ditugu.
 
-Admin: Baimen guztiak, taula guztietan.
+Admin: Baimen guztiak, taula guztietan. <br>
 Erabiltzaile hau nagusiena da, guztia egin dezake, botere guztia bere eskun dago.
 
-Irakasleak: Select, Update eta Insert nota taulan eta besteetan Select.
+Irakasleak: Select, Update eta Insert nota taulan eta besteetan Select. <br>
 Erabiltzaile hauek notak jarri behar dituzte beraz taula hori editatzeko aukera dute. Beesteetan momentuz soilik ikusi.
 
-Ikaslea: Bakarrik Select, notak eta ikasgaietan.
+Ikaslea: Bakarrik Select, notak eta ikasgaietan. <br>
 Erabiltzaile hauek minimoa ikus dezakete. Ez dute zertan datu guztiak ikusi behar, beraz haien ardurako taulak bakarrik ikus dezakete.
