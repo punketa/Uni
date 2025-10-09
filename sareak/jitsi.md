@@ -16,10 +16,6 @@ sudo netplan apply
 
 ip addr
 
-\
-\
-
-
 <figure><img src="../.gitbook/assets/unknown.png" alt="" width="300"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/unknown (1).png" alt="" width="563"><figcaption></figcaption></figure>
