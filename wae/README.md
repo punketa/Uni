@@ -1,3 +1,7 @@
+---
+description: Hemen WAE-ren buruzko dokumentazioa jarriko dugu.
+---
+
 # WAE
 
 Gure enpresak web orri bat izan behar du. Bertan informazio gehiago emango dugu gure enpresaren buruz. Horrez gain, hainbat atal izango ditu, hala nola, kontingentzia-plana, jasangarritasun-plana...\
