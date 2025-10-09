@@ -15,6 +15,8 @@ Horrez gain, datu base honekin lotutako ariketak egin ditugu klasean eta gure en
 
 Datu base honek ez dauka tamaina handia, ez ditu eskakizun asko hardware aldetik. Bere desabantail handiena bere errendimendua txikia izan daitekela datu base handietan, baina ez da gure kasua.
 
+<figure><img src="../.gitbook/assets/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" alt=""><figcaption></figcaption></figure>
+
 **-Zenbat erabiltzaile erabiliko ditugun? Baimenak?**
 
 Aipatu dugun bezala, datu asko izango ditugu eta horiek seguru mantendu nahi baditugu, aldez aurretik finkatu behar ditugu zeintzuk izango duten baimenak datu basea editatzeko, ikusteko, ezabatzeko... Atal honetan sartzen dira ROLAK eta ERABILTZAILEAK.
