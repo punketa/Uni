@@ -1,3 +1,3 @@
-# Instalazioa
+# Domeinua
 
 Sistemaren instalazio prozesua.

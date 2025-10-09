@@ -1,3 +1,3 @@
-# Mantenua
+# Inprimagailuak
 
 Sistemaren mantenuaren xehetasunak.

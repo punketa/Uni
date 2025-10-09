@@ -1,0 +1,3 @@
+# GPO
+
+Zerbitzuen segurtasun-neurriak.

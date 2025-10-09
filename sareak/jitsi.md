@@ -1,0 +1,3 @@
+# Jitsi
+
+Zerbitzuen segurtasun-neurriak.
