@@ -16,6 +16,4 @@ description: 'Nola sortu erabiltzaileak eta izango duten baimenak:'
 
 SELECT ID, user\_login, user\_email, user\_registered FROM wp\_users;
 
-##
-
 <figure><img src="../.gitbook/assets/unknown (12).png" alt=""><figcaption></figcaption></figure>
