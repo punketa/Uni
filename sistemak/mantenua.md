@@ -1,0 +1,3 @@
+# Mantenua
+
+Sistemaren mantenuaren xehetasunak.

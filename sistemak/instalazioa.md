@@ -1,0 +1,3 @@
+# Instalazioa
+
+Sistemaren instalazio prozesua.
