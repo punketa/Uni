@@ -1,3 +1,6 @@
+---
+description: 'Web orria:'
+---
+
 # Wordpress
 
-Zerbitzuen konfigurazioaren xehetasunak.
