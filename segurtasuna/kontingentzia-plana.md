@@ -4,11 +4,9 @@ description: 'Hemen kontigentzia-plana jarriko dugu:'
 
 # Kontingentzia-plana
 
-### Kontingentzia Plana - Payo Unibertsitatea (2025)&#x20;
-
-### Ikastetxea: Payo Unibertsitatea Urtea: 2025&#x20;
-
-### Arloa: Informatika / IKT 
+**Kontingentzia Plana - Payo Unibertsitatea (2025)**\
+**Ikastetxea: Payo Unibertsitatea Urtea: 2025**\
+**Arloa: Informatika / IKT**
 
 Helburua: Ikastetxeko sistema informatikoak, datuak eta sareko zerbitzuak babestea, eta arazo baten ondoren (ziberatakea, hardware hutsegitea, sutea...) ahalik eta azkarren berreskuratzea.
 
@@ -42,10 +40,11 @@ Arrisku nagusiak hauek izango lirateke:
 -Hardware hutsegiteak: disko gogor apurtuta, sare osagaiak apurtzea.\
 -Hondamendi fisikoak: sutea, lapurreta.\
 -Hornidura etenak: elektrizitate edo internet zerbitzuaren etenak.\
-\
 
 
-#### Babes plana (larrialde aurretik):
+
+
+* #### Babes plana (larrialde aurretik):
 
 Zenbait prebentzio hartu beharko izango genuke gauza hauek ez gertatzeko.
 
@@ -68,58 +67,58 @@ Zenbait prebentzio hartu beharko izango genuke gauza hauek ez gertatzeko.
 \
 
 
-**Erantzun Plana (larrialdietan zer egin):**
+* #### Erantzun plana (larrialde momentuan):
 
 **Zati logikoa:**
 
-Infektatutako ekipoak isolatu:                                                                                                                                            Ordenagailuak edo zerbitzariak deskonektatzea, birus edo ransomware bat badago
+-Infektatutako ekipoak isolatu:                                                                                                                                            Ordenagailuak edo zerbitzariak deskonektatzea, birus edo ransomware bat badago
 
-Erabiltzaile konprometituak blokeatzea:                                                                                                                            Pasahitzak aldatzea, eragindako kontuak desaktibatzea&#x20;
+-Erabiltzaile konprometituak blokeatzea:                                                                                                                            Pasahitzak aldatzea, eragindako kontuak desaktibatzea&#x20;
 
-Sistemaren sesioak eta alertak begiratzea:                                                                                                                       Zer gertatu den, nondik eraso duten eta zer zerbitzariei eragin die
+-Sistemaren sesioak eta alertak begiratzea:                                                                                                                       Zer gertatu den, nondik eraso duten eta zer zerbitzariei eragin die
 
 Babeskopiak babestea:                                                                                                                                                Afektatuta dauden ala ez begiratu
 
 **Zati fisikoa:**&#x20;
 
-Konprometitutako ekipoak fisikoki deskonektatzea:                                                                                                           Sareko kableak kentzea edo infektatutako ordenagailuak itzaltzea
+-Konprometitutako ekipoak fisikoki deskonektatzea:                                                                                                           Sareko kableak kentzea edo infektatutako ordenagailuak itzaltzea
 
-Kaltetutako eremua ebakuatzea edo babestea :                                                                                                             Suterik edo intrusio fisiko baten baldin badago
+-Kaltetutako eremua ebakuatzea edo babestea :                                                                                                             Suterik edo intrusio fisiko baten baldin badago
 
-Alarmak edo segurtasun fisikoko neurriak aktibatzea:                                                                                        Poliziarekin edo suhiltzaileekin harremanetan jartzea, gertakari motaren arabera
+-Alarmak edo segurtasun fisikoko neurriak aktibatzea:                                                                                        Poliziarekin edo suhiltzaileekin harremanetan jartzea, gertakari motaren arabera
 
 \
 \
 
 
-**Berreskuratze Plana (larrialdiak pasatu ostean)**&#x20;
+* #### Berreskuratze plana (larrialde ostean):
 
 **Segurtasun logikoa:**&#x20;
 
-Sistemeko datuak segurtasun-kopietatik berreskuratzea informazio garrantzitsuena ez galtzeko
+-Sistemeko datuak segurtasun-kopietatik berreskuratzea informazio garrantzitsuena ez galtzeko
 
-Informazio logikoa galdu eta gero hainbat programa ditugu berreskuratzeko, adibidez RPO (Recovery Point Objective) edo RTO (Recovery Time Objective)
+-Informazio logikoa galdu eta gero hainbat programa ditugu berreskuratzeko, adibidez RPO (Recovery Point Objective) edo RTO (Recovery Time Objective)
 
-Sistemak eta zerbitzuak martxan jarri berriz: Moodle, posta, webgunea…)
+-Sistemak eta zerbitzuak martxan jarri berriz: Moodle, posta, webgunea…)
 
-Pasahitzak eta segurtasun-politikak eguneratzea:&#x20;
+-Pasahitzak eta segurtasun-politikak eguneratzea:&#x20;
 
-Kredentzialak aldatzea, autentikazioak indartzea ahal bada eta partxeak instalatu
+-Kredentzialak aldatzea, autentikazioak indartzea ahal bada eta partxeak instalatu
 
 **Segurtasun fisikoa**
 
-Kaltetutako ekipoak konpondu edo ordeztu (sua hartu baldin badu adibidez):                                                              Ordenagailuak, switchak, routerrak, zerbitzariak, kableak…
+-Kaltetutako ekipoak konpondu edo ordeztu (sua hartu baldin badu adibidez):                                                              Ordenagailuak, switchak, routerrak, zerbitzariak, kableak…
 
-Hardware :Sareko zerbitzari edo gailu berriak montzatzea suntsitu baldin badira
+-Hardware :Sareko zerbitzari edo gailu berriak montzatzea suntsitu baldin badira
 
-Ingurunean segurtasun fisikoa begiratzea : Kamerak, su-detektagailuak eta alarmak egiaztatzea
+-Ingurunean segurtasun fisikoa begiratzea : Kamerak, su-detektagailuak eta alarmak egiaztatzea
 
 \
 
 
-**Berreskuratze generalean:**&#x20;
+* #### Berreskuratze generalean:
 
-Zein edo zerk huts egin duen begiratzea eta txosten bat sortu neurriak aplikatzeko hau berriro ez gertatzeko
+Zein edo zerk huts egin duen begiratzea eta txosten bat sortu neurriak aplikatzeko hau berriro ez gertatzeko-
 
 \- Finantza eta baliabideak: Kostuak kalkulatu (adibidez, aseguruak edo kanpoko laguntza).
 
