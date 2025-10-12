@@ -23,7 +23,7 @@
 * [Iraunkortasuna](iraunkortasuna/README.md)
   * [Jasangarritasun-plana](iraunkortasuna/jasangarritasun-plana.md)
 * [Sistema Banatuak](sistemabanatuak/README.md)
-  * [APIak](sistemabanatuak/apiak.md)
+  * [Proxmox](sistemabanatuak/proxmox.md)
 * [Hacking](hacking/README.md)
   * [APIak](hacking/apiak.md)
   * [Konfigurazioa](hacking/konfigurazioa.md)
