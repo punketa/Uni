@@ -12,7 +12,9 @@ description: 'Hemen kontigentzia-plana jarriko dugu:'
 
 Helburua: Ikastetxeko sistema informatikoak, datuak eta sareko zerbitzuak babestea, eta arazo baten ondoren (ziberatakea, hardware hutsegitea, sutea...) ahalik eta azkarren berreskuratzea.
 
-**Helburu nagusiak:**
+
+
+* **Helburu nagusiak:**
 
 -Datu eta informazioaren konfidentzialtasuna, osotasuna eta eskuragarritasuna bermatzea.
 
@@ -24,7 +26,7 @@ Helburua: Ikastetxeko sistema informatikoak, datuak eta sareko zerbitzuak babest
 
 ESKOLAKO SISTEMA INFORMATIKOAREN INFORMAZIOA                     &#x20;
 
-Baliabideak   Deskribapena     Arrisku nagusiak
+&#x20;                Baliabideak                                        Deskribapena                                        Arrisku nagusiak
 
 | Sare lokala (LAN) | Ikastetxeko sare nagusia (ikasgela, bulegoak, wifi) | Sare erasoak, konexio etenak                   |
 | ----------------- | --------------------------------------------------- | ---------------------------------------------- |
@@ -49,8 +51,13 @@ Zenbait prebentzio hartu beharko izango genuke gauza hauek ez gertatzeko.
 
 **Zati logikoa:**
 
--Babeskopiak: Egunero automatikoki egiten dira, astean behin kanpoko gailu batean gordetzen dira.\
--Autentifikazio sendoa: Pasahitz konplexuak, MFA erabiltzea.                                     -Segurtasun softwarea: Antibirus eguneratua, firewall aktiboak.                                         -Sare segmentazioa: Ikasleen sareak eta administrazio sareak bananduta.
+-Babeskopiak: Egunero automatikoki egiten dira, astean behin kanpoko gailu batean gordetzen dira.
+
+-Autentifikazio sendoa: Pasahitz konplexuak, MFA erabiltzea.
+
+-Segurtasun softwarea: Antibirus eguneratua, firewall aktiboak.                                       &#x20;
+
+&#x20;-Sare segmentazioa: Ikasleen sareak eta administrazio sareak bananduta.
 
 **Zati fisikoa:**
 
