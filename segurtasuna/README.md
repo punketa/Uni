@@ -1,3 +1,7 @@
-# Zerbitzuak
+---
+description: Hemen Segurtasuna-ren buruzko dokumentazioa jarriko dugu.
+---
 
-Zerbitzuen dokumentazioa hemen.
+# Segurtasuna
+
+Segurtasuna gure enpresan ezinbestekoa da eta horretarako hainbat gauza izan behar dira kontuan. Beraz, kontingentzia plana egitan beharrezkoa iruditzen zaigu segurtasun arazoak saihesteko, momentuan zer egin jakitzeko eta gertutakoan zer egin egin berreskuratzeko eta segurtasun akatsengandik ikasteko.
