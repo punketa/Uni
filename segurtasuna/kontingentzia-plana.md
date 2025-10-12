@@ -1,3 +1,6 @@
+---
+description: 'Hemen kontigentzia-plana jarriko dugu:'
+---
+
 # Kontingentzia-plana
 
-Zerbitzuen segurtasun-neurriak.
