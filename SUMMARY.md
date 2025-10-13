@@ -10,6 +10,7 @@
   * [Erabiltzaileak](wae/erabiltzaileak.md)
   * [Wordpress](wae/wordpress.md)
 * [Sareak](sareak/README.md)
+  * [IPak](sareak/ip.md)
   * [DHCP](sareak/dhcp.md)
   * [DNS](sareak/dns.md)
   * [Jitsi](sareak/jitsi.md)
