@@ -1,3 +1,6 @@
-# CUPS
+---
+description: 'Hemen inprimagailuaren buruzko dokumentazioa jarriko dugu:'
+---
 
-Sistemaren monitorizazio tresnak eta metodologiak.
+# Inprimagailuak eta CUPS
+
