@@ -57,7 +57,7 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 
 <figure><img src="../.gitbook/assets/unknown (41).png" alt=""><figcaption></figcaption></figure>
 
-###
+
 
 ### L**inux bezeroa windows zerbitzariko inpresoratik inprimatu**:
 
