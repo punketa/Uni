@@ -6,7 +6,7 @@ description: 'DHCP zerbitzua erabili dugu:'
 
 -**DHCP instalatu Active Directory bidez.**
 
-**-DHCP konfiguratu.**
+### DHCP konfiguratu:
 
 * IP tartea ezarri
 
@@ -18,7 +18,7 @@ description: 'DHCP zerbitzua erabili dugu:'
 
 <figure><img src="../.gitbook/assets/unknown (15).png" alt="" width="414"><figcaption></figcaption></figure>
 
-**-Bezeroa DHCP bidez konektatu.**
+### Bezeroa DHCP bidez konektatu:
 
 * DNS = zerbidorearen IP-a
 
@@ -46,7 +46,7 @@ description: 'DHCP zerbitzua erabili dugu:'
 
 
 
-**-Erreserbak.**
+### Erreserbak
 
 * Izena eta ekipoaren MAC-a jarri.
 
