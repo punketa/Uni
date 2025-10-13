@@ -8,7 +8,7 @@ description: 'Inprimagailuaren bigarren zatia dokumentatuko dugu:'
 
 <figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
--Windows bezero Cups-eko inprimagailu batetik inprimatu:
+### Windows bezero Cups-eko inprimagailu batetik inprimatu:
 
 <figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,8 +20,9 @@ description: 'Inprimagailuaren bigarren zatia dokumentatuko dugu:'
 
 <figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
 
-\
-&#xNAN;**-Linux bezero Cups-eko inprimagailu batetik inprimatu:**
+
+
+### **Linux bezero Cups-eko inprimagailu batetik inprimatu:**
 
 -Bezero hau erabiliko dugu:\
 
