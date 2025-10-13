@@ -19,7 +19,7 @@
 * [Sistemak](sistemak/README.md)
   * [OU, taldeak eta erabiltzaileak](sistemak/taldeak.md)
   * [Bezeroak domeinuan sartu](sistemak/domeinua.md)
-  * [Inprimagailuak](sistemak/imprimagailuak.md)
+  * [Inprimagailuak](sistemak/inprimagailuak.md)
   * [CUPS](sistemak/cups.md)
   * [GPO](sistemak/gpo.md)
 * [Iraunkortasuna](iraunkortasuna/README.md)
