@@ -19,7 +19,7 @@
 * [Sistemak](sistemak/README.md)
   * [OU, taldeak eta erabiltzaileak](sistemak/domeinua.md)
   * [Bezeroak domeinuan sartu](sistemak/inprimagailuak.md)
-  * [Inprimagailuak eta CUPS](sistemak/cups.md)
+  * [Inprimagailuak](sistemak/cups.md)
   * [GPO](sistemak/gpo.md)
 * [Iraunkortasuna](iraunkortasuna/README.md)
   * [Jasangarritasun-plana](iraunkortasuna/jasangarritasun-plana.md)
