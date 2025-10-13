@@ -6,7 +6,7 @@ description: 'Wordpress instalatzeko pausuak:'
 
 Hasiera batean ubuntun egiten hasi ginen, baina isard eta internet arazoak direla eta localhost egitea hobea dela pentsatu dugu.
 
--**Wordpress Ubuntun**
+### Wordpress Ubuntun
 
 * **DB:**
 
@@ -71,7 +71,7 @@ Bezeroan: [http://192.168.10.12/wordpress](http://192.168.10.12/wordpress) \
 
 
 
-**-Wordpress Localean**
+### Wordpress localean
 
 * **DB sortu MariaDBn.**
 * **XAMPP instalatu eta Apache marchan jarri:**
