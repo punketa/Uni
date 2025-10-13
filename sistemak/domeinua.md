@@ -1,20 +1,71 @@
 ---
-description: 'Hemen sortu ditugun OU, taldeak eta erabiltzaileak dokumentatuko ditugu:'
+description: 'Hemen bezeroak nola sartu ditugun domeinuan azalduko dugu:'
 ---
 
-# OU, taldeak eta erabiltzaileak
+# Bezeroak domeinuan sartu
 
-**Taldeak eta erabiltzaileak sortu:**
+Gure bezero gehienak DHCP bidez konektatzen dira:
 
-**-Unión Organizativa, Taldeak eta Erabiltzaileak sortu:**
+**-Bezeroa DHCP bidez konektatu.**
 
-Gure unibertsitatean bi OU egongo dira, bat ikasleentzako eta bestea irakasleentzako, bakotxa barruan ikasle eta irakasle erabiltzaileak izango dute. Azkenik talde batzuk sortu ditugu: Ikasleak bi klaseetan banatuta daude, klase bakoitzeko delegatu bat eta azkenean ikasle guztiak duen talde bat.
+* DNS = zerbidorearen IP-a
 
-Irakasleen kasuan tutoreak sortu ditugu klase bakoitzak bere tutorea izateko. Eta irakasleak taldea ere sortu dugu.
+<figure><img src="../.gitbook/assets/unknown (16).png" alt="" width="304"><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (7).png>)\
+* Ekipoaren zena aldatu.
+
+<figure><img src="../.gitbook/assets/unknown (17).png" alt="" width="512"><figcaption></figcaption></figure>
+
+* Domeinuan sartu
+
+<figure><img src="../.gitbook/assets/unknown (18).png" alt="" width="248"><figcaption></figcaption></figure>
 
 
-Erabiltzaileen informazioa:
 
-(EXCEL)
+* Administradorearen datuak jarri
+
+<figure><img src="../.gitbook/assets/unknown (19).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+* Beste erabiltzaile batekin saioa hasi
+
+<figure><img src="../.gitbook/assets/unknown (20).png" alt="" width="429"><figcaption></figcaption></figure>
+
+Baina badugu tarte bat bezeroak IP estatikoarekin sartzeko:
+
+-**Bezeroak domeinuan sartu:**
+
+-Bezeroak pertsonal1 sarean egon behar dira:
+
+
+
+![](../.gitbook/assets/unknown.png)
+
+
+
+-Ekipoaren izena aldatu:
+
+-ncpa.cpl
+
+-IP estatikoa ezarri eta DNS-a (zerbitzariaren IP-a) jarri:
+
+<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+-Domeinua ezarri:
+
+<figure><img src="../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
+
+-Bezeroaren datuak sartu:
+
+<figure><img src="../.gitbook/assets/unknown (20).png" alt=""><figcaption></figcaption></figure>
+
+-cmd ireki eta systeminfo jarri:
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+\
+
+

@@ -1,71 +1,93 @@
 ---
-description: 'Hemen bezeroak nola sartu ditugun domeinuan azalduko dugu:'
+description: 'Hemen inprimagailuaren buruzko dokumentazioa jarriko dugu:'
 ---
 
-# Bezeroak domeinuan sartu
+# Inprimagailuak eta CUPS
 
-Gure bezero gehienak DHCP bidez konektatzen dira:
+**Inprimagailuak**
 
-**-Bezeroa DHCP bidez konektatu.**
+**-Zenbat inprimagailu eta non kokatuko ditugun?**
 
-* DNS = zerbidorearen IP-a
+Windows zerbitzarian 2 inprimagailu sortuko ditugu. Bat ikasleentzako eta bestea irakasleentzako.
 
-<figure><img src="../.gitbook/assets/unknown (16).png" alt="" width="304"><figcaption></figcaption></figure>
+Irakasleena bakarrik irakasleak erabil dezakete eta ikasleak erabili nahi ezkero irakasle baten datuak eskatzen ditu.
 
-* Ekipoaren zena aldatu.
+ikasleena bakarrik delegatuak erabil dezakete eta irakasleen inprimagailua ez ibiltzekotan ikasleena ere erabil dezakete.
 
-<figure><img src="../.gitbook/assets/unknown (17).png" alt="" width="512"><figcaption></figcaption></figure>
-
-* Domeinuan sartu
-
-<figure><img src="../.gitbook/assets/unknown (18).png" alt="" width="248"><figcaption></figcaption></figure>
-
-
-
-* Administradorearen datuak jarri
-
-<figure><img src="../.gitbook/assets/unknown (19).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
-* Beste erabiltzaile batekin saioa hasi
-
-<figure><img src="../.gitbook/assets/unknown (20).png" alt="" width="429"><figcaption></figcaption></figure>
-
-Baina badugu tarte bat bezeroak IP estatikoarekin sartzeko:
-
--**Bezeroak domeinuan sartu:**
-
--Bezeroak pertsonal1 sarean egon behar dira:
-
-
-
-![](../.gitbook/assets/unknown.png)
-
-
-
--Ekipoaren izena aldatu:
-
--ncpa.cpl
-
--IP estatikoa ezarri eta DNS-a (zerbitzariaren IP-a) jarri:
-
-<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
-
-
-
--Domeinua ezarri:
-
-<figure><img src="../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
-
--Bezeroaren datuak sartu:
-
-<figure><img src="../.gitbook/assets/unknown (20).png" alt=""><figcaption></figcaption></figure>
-
--cmd ireki eta systeminfo jarri:
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+Inprimagailuak zuzendaritzan kokatuko ditu.
 
 \
 
 
+<figure><img src="../.gitbook/assets/unknown (32).png" alt="" width="470"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/unknown (33).png" alt="" width="476"><figcaption></figcaption></figure>
+
+
+
+-Taldeei baimenak eman:
+
+\
+![](<../.gitbook/assets/unknown (35).png>)
+
+![](<../.gitbook/assets/unknown (36).png>)
+
+
+
+-GPO-a ezarri
+
+![](<../.gitbook/assets/unknown (34).png>)
+
+-Inprimagailuen portuak:
+
+<figure><img src="../.gitbook/assets/unknown (37).png" alt=""><figcaption></figcaption></figure>
+
+\
+\
+&#xNAN;**-Windows bezerotik zerbitzariko inprimagailu inprimatu:**
+
+-Irakasle batekin saioa hasi eta inprimatu:
+
+<figure><img src="../.gitbook/assets/unknown (38).png" alt=""><figcaption></figcaption></figure>
+
+
+
+-Inprimatzen…
+
+<figure><img src="../.gitbook/assets/unknown (39).png" alt=""><figcaption></figcaption></figure>
+
+
+
+-Irakasle taldekoa (ikasle bat) ez den bezero batekin saioa hasi eta inprimatu:
+
+<figure><img src="../.gitbook/assets/unknown (40).png" alt=""><figcaption></figcaption></figure>
+
+
+
+-Baimena duen batekin saioa hasi behar da inprimagailua erabiltzeko
+
+<figure><img src="../.gitbook/assets/unknown (41).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**-Linux bezeroa windows zerbitzariko inpresoratik inprimatu:**
+
+<figure><img src="../.gitbook/assets/unknown (42).png" alt=""><figcaption></figcaption></figure>
+
+-\
+
+
+<figure><img src="../.gitbook/assets/unknown (42).png" alt=""><figcaption></figcaption></figure>
+
+\-
+
+<figure><img src="../.gitbook/assets/unknown (43).png" alt=""><figcaption></figcaption></figure>
+
+\-
+
+<figure><img src="../.gitbook/assets/unknown (44).png" alt=""><figcaption></figcaption></figure>
+
+\
+HEMEN SUPOSATZEN DA KONEKTATU BEHAR DELA BAINA INPRIMAGAILUAREN KONTROLADOREA ESKATZEN DU, ETA GUREA GENERIC TEXT ONLY DA ETA UBUNTU BEZEROAREN ZERRENDAN EZ DA AGERTZEN BERAZ EZINEZKOA EGIN ZAIGU KONEKTATZEA NAHIZ ETA KONTROLADOR ASKOREKIN AHALEGINDU.
+
+\
