@@ -4,9 +4,7 @@ description: 'Hemen inprimagailuaren buruzko dokumentazioa jarriko dugu:'
 
 # Inprimagailuak
 
-**Inprimagailuak**
-
-**-Zenbat inprimagailu eta non kokatuko ditugun?**
+### Zenbat inprimagailu eta non kokatuko ditugu?
 
 Windows zerbitzarian 2 inprimagailu sortuko ditugu. Bat ikasleentzako eta bestea irakasleentzako.
 
@@ -39,9 +37,9 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 
 <figure><img src="../.gitbook/assets/unknown (37).png" alt=""><figcaption></figcaption></figure>
 
-\
-\
-\&#xNAN;**-Windows bezerotik zerbitzariko inprimagailu inprimatu:**
+
+
+### W**indows bezerotik zerbitzariko inprimagailu inprimatu**:
 
 -Irakasle batekin saioa hasi eta inprimatu:
 
@@ -59,7 +57,9 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 
 <figure><img src="../.gitbook/assets/unknown (41).png" alt=""><figcaption></figcaption></figure>
 
-**-Linux bezeroa windows zerbitzariko inpresoratik inprimatu:**
+###
+
+### L**inux bezeroa windows zerbitzariko inpresoratik inprimatu**:
 
 <figure><img src="../.gitbook/assets/unknown (42).png" alt=""><figcaption></figcaption></figure>
 

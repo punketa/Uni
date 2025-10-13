@@ -6,7 +6,7 @@ description: 'Hemen bezeroak nola sartu ditugun domeinuan azalduko dugu:'
 
 Gure bezero gehienak DHCP bidez konektatzen dira:
 
-**-Bezeroa DHCP bidez konektatu.**
+### Bezeroa DHCP bidez konektatu:
 
 * DNS = zerbidorearen IP-a
 
@@ -32,7 +32,7 @@ Gure bezero gehienak DHCP bidez konektatzen dira:
 
 <figure><img src="../.gitbook/assets/unknown (20).png" alt="" width="429"><figcaption></figcaption></figure>
 
-Baina badugu tarte bat bezeroak IP estatikoarekin sartzeko:
+### Bezeroa IP estatiko bidez konektatu:
 
 -**Bezeroak domeinuan sartu:**
 
