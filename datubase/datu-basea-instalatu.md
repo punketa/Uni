@@ -4,7 +4,7 @@ description: 'Datu-basearen instalatzeko pausuak:'
 
 # Datu basea instalatu
 
-**-MariaDB Ubuntu 24.04.01 instalatu:**
+### MariaDB Ubuntu 24.04.01 instalatu:
 
 sudo apt update
 
@@ -24,7 +24,7 @@ sudo mysql\_secure\_installation
 
 <figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**-Erroreak:**
+### Erroreak
 
 Ez da izan errore bat generalean, baina datu basea egiterakoan eta erabiltzaileak sortzerakoan @’localhost’ beharrean @’payo.eus’ jarri dugu. Beraz, erabaki dugu berriz instalatzea MariaDB:
 
@@ -42,7 +42,7 @@ sudo rm -rf /etc/mysql
 
 
 
-**-MariaDB localean instalatu:**
+### MariaDB localean instalatu
 
 -Aurkitu linka eta deskargatu.
 

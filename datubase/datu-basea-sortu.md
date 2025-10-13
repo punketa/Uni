@@ -4,7 +4,7 @@ description: 'Nola sortu dugun datu basea azalduko dugu:'
 
 # Datu basea sortu
 
-**-MariaDB-n datu basea sortu:**
+### MariaDB-n datu basea sortu:
 
 sudo mysql -u root -p
 
@@ -105,7 +105,7 @@ mysql -u root -p < "C:\Users\TuNombre\Desktop\unipayo.sql"
 
 
 
-**-ADIBIDE BATZUK:**
+### Adibide batzuk
 
 Hemen irakasle bezala sartuta ikusten dena:
 
