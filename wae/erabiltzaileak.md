@@ -8,7 +8,7 @@ Web orria erabiltzaileak ditu, batzuek besteak baino baimen gehiagorekin. Modu h
 
 **-Erabiltzaileak gehitu:**
 
-<figure><img src="../.gitbook/assets/unknown (10) (1).png" alt="" width="562"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (10) (1) (1).png" alt="" width="562"><figcaption></figcaption></figure>
 
 3 erabiltzaile sortu ditugu: 1 admin / 1 editor / 1 colaborador
 

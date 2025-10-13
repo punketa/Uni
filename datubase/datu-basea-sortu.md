@@ -18,7 +18,7 @@ CREATE DATABASE unipayo;
 
 USE unipayo;
 
-<figure><img src="../.gitbook/assets/unknown (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@ GRANT ALL PRIVILEGES ON unipayo.\* TO 'adminRola';
 
 (Baimen guztiak, dena egin dezan)
 
-<figure><img src="../.gitbook/assets/unknown (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 GRANT SELECT, INSERT, UPDATE ON unipayo.notak TO 'irakasleRola';
 
@@ -44,7 +44,7 @@ GRANT SELECT ON unipayo.ikasgaiak TO 'irakasleRola';
 
 (Insert baimena, notak jartzeko eta beste tauleetan bakarrik ikusteko)
 
-<figure><img src="../.gitbook/assets/unknown (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 GRANT SELECT ON unipayo.ikasle\_notak TO 'ikasleRola';
 
@@ -52,7 +52,7 @@ GRANT SELECT ON unipayo.ikasle\_ikasgaiak TO 'ikasleRola';
 
 (Select baimena bakarrik, taulak soilik ikusteko)
 
-<figure><img src="../.gitbook/assets/unknown (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -84,7 +84,7 @@ GRANT 'ikasleRola' TO 'martin.ander'@'localhost', 'saez.eneko'@'localhost', 'pet
 
 SELECT User, Host FROM mysql.user;
 
-<figure><img src="../.gitbook/assets/unknown (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -109,10 +109,10 @@ mysql -u root -p < "C:\Users\TuNombre\Desktop\unipayo.sql"
 
 Hemen irakasle bezala sartuta ikusten dena:
 
-<figure><img src="../.gitbook/assets/unknown (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hemen ikasle bezala sartuta ikusten dena:
 
-<figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \

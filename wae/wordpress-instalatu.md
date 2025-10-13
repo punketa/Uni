@@ -37,7 +37,7 @@ sudo systemctl status apache2
 Bezeroan: [http://192.168.10.12](http://192.168.10.12)\
 
 
-![](<../.gitbook/assets/unknown (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/unknown (1) (1) (1) (1) (1).png>)
 
 
 
@@ -61,13 +61,13 @@ sudo systemctl restart apache2\
 Bezeroan: [http://192.168.10.12/wordpress](http://192.168.10.12/wordpress) \
 
 
-<figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * **Wordpress konfiguratu:**
 
-<figure><img src="../.gitbook/assets/unknown (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -76,12 +76,12 @@ Bezeroan: [http://192.168.10.12/wordpress](http://192.168.10.12/wordpress) \
 * **DB sortu MariaDBn.**
 * **XAMPP instalatu eta Apache marchan jarri:**
 
-<figure><img src="../.gitbook/assets/unknown (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Wordpress deskargatu eta C:\xampp\htdocs barruan sartu.**
 
 [https://localhost/wordpres](https://localhost/wordpres)
 
-<figure><img src="../.gitbook/assets/unknown (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \

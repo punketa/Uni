@@ -6,7 +6,7 @@ description: 'DNS zerbitzua erabili dugu, adibide bezala jitsiren DNS-a jarriko 
 
 -Gune berria sortu.
 
-<figure><img src="../.gitbook/assets/unknown (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -33,7 +33,7 @@ description: 'DNS zerbitzua erabili dugu, adibide bezala jitsiren DNS-a jarriko 
 
 IP-a jarri
 
-<figure><img src="../.gitbook/assets/unknown (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,4 +52,4 @@ IP-a jarri
 
 -Orain bezero batetik horrela ikusten da:
 
-<figure><img src="../.gitbook/assets/unknown (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

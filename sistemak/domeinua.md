@@ -40,7 +40,7 @@ Baina badugu tarte bat bezeroak IP estatikoarekin sartzeko:
 
 
 
-![](../.gitbook/assets/unknown.png)
+![](<../.gitbook/assets/unknown (10).png>)
 
 
 
@@ -50,13 +50,13 @@ Baina badugu tarte bat bezeroak IP estatikoarekin sartzeko:
 
 -IP estatikoa ezarri eta DNS-a (zerbitzariaren IP-a) jarri:
 
-<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 -Domeinua ezarri:
 
-<figure><img src="../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 -Bezeroaren datuak sartu:
 
