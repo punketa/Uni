@@ -34,4 +34,4 @@
   * [Hardware](hardware/hardware.md)
   * [Software](hardware/software.md)
   * [Presupuestoa](hardware/presupuestoa.md)
-  * [Planoa](hardware/planoa.md)
+  * [Planoak](hardware/planoa.md)
