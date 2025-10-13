@@ -17,7 +17,7 @@
 * [Segurtasuna](segurtasuna/README.md)
   * [Kontingentzia-plana](segurtasuna/kontingentzia-plana.md)
 * [Sistemak](sistemak/README.md)
-  * [Domeinua](sistemak/domeinua.md)
+  * [OU, taldeak eta erabiltzaileak](sistemak/domeinua.md)
   * [Inprimagailuak](sistemak/inprimagailuak.md)
   * [CUPS](sistemak/cups.md)
   * [GPO](sistemak/gpo.md)
