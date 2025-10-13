@@ -25,7 +25,9 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 -Taldeei baimenak eman:
 
 \
-![](<../.gitbook/assets/unknown (35).png>)
+
+
+<figure><img src="../.gitbook/assets/unknown (35).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../.gitbook/assets/unknown (36).png>)
 
@@ -75,5 +77,3 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 
 \
 HEMEN SUPOSATZEN DA KONEKTATU BEHAR DELA BAINA INPRIMAGAILUAREN KONTROLADOREA ESKATZEN DU, ETA GUREA GENERIC TEXT ONLY DA ETA UBUNTU BEZEROAREN ZERRENDAN EZ DA AGERTZEN BERAZ EZINEZKOA EGIN ZAIGU KONEKTATZEA NAHIZ ETA KONTROLADOR ASKOREKIN AHALEGINDU.
-
-\\
