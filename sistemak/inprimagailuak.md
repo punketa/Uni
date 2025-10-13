@@ -2,7 +2,7 @@
 description: 'Hemen inprimagailuaren buruzko dokumentazioa jarriko dugu:'
 ---
 
-# Inprimagailuak eta CUPS
+# Inprimagailuak
 
 **Inprimagailuak**
 
@@ -16,14 +16,11 @@ ikasleena bakarrik delegatuak erabil dezakete eta irakasleen inprimagailua ez ib
 
 Inprimagailuak zuzendaritzan kokatuko ditu.
 
-\
-
+-Inprimagailuak sortu:
 
 <figure><img src="../.gitbook/assets/unknown (32).png" alt="" width="470"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/unknown (33).png" alt="" width="476"><figcaption></figcaption></figure>
-
-
 
 -Taldeei baimenak eman:
 
@@ -31,8 +28,6 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 ![](<../.gitbook/assets/unknown (35).png>)
 
 ![](<../.gitbook/assets/unknown (36).png>)
-
-
 
 -GPO-a ezarri
 
@@ -44,38 +39,29 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 
 \
 \
-&#xNAN;**-Windows bezerotik zerbitzariko inprimagailu inprimatu:**
+\&#xNAN;**-Windows bezerotik zerbitzariko inprimagailu inprimatu:**
 
 -Irakasle batekin saioa hasi eta inprimatu:
 
 <figure><img src="../.gitbook/assets/unknown (38).png" alt=""><figcaption></figcaption></figure>
 
-
-
 -Inprimatzen…
 
 <figure><img src="../.gitbook/assets/unknown (39).png" alt=""><figcaption></figcaption></figure>
-
-
 
 -Irakasle taldekoa (ikasle bat) ez den bezero batekin saioa hasi eta inprimatu:
 
 <figure><img src="../.gitbook/assets/unknown (40).png" alt=""><figcaption></figcaption></figure>
 
-
-
 -Baimena duen batekin saioa hasi behar da inprimagailua erabiltzeko
 
 <figure><img src="../.gitbook/assets/unknown (41).png" alt=""><figcaption></figcaption></figure>
-
-
 
 **-Linux bezeroa windows zerbitzariko inpresoratik inprimatu:**
 
 <figure><img src="../.gitbook/assets/unknown (42).png" alt=""><figcaption></figcaption></figure>
 
--\
-
+-\\
 
 <figure><img src="../.gitbook/assets/unknown (42).png" alt=""><figcaption></figcaption></figure>
 
@@ -90,4 +76,4 @@ Inprimagailuak zuzendaritzan kokatuko ditu.
 \
 HEMEN SUPOSATZEN DA KONEKTATU BEHAR DELA BAINA INPRIMAGAILUAREN KONTROLADOREA ESKATZEN DU, ETA GUREA GENERIC TEXT ONLY DA ETA UBUNTU BEZEROAREN ZERRENDAN EZ DA AGERTZEN BERAZ EZINEZKOA EGIN ZAIGU KONEKTATZEA NAHIZ ETA KONTROLADOR ASKOREKIN AHALEGINDU.
 
-\
+\\
