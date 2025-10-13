@@ -4,14 +4,14 @@ description: 'Gure unibertsitateko ekipo kritikoak:'
 
 # Ekipo Kritikoak
 
-#### 1. Zerbitzari nagusiak (core servers)
+#### 1. Zerbitzari nagusiak
 
 * Erabiltzaileen autentifikazioa eta baimenak (LDAP / Active Directory).
 * Fitxategi eta datu partekatuen kudeaketa.
 * Birtualizazio edo kontainerizazio azpiegitura (VMware, Proxmox, KVM…).
 * Datubase nagusiak eta aplikazio-zerbitzariak.
 
-#### 2. Sare-infraestruktura (core network)
+#### 2. Sare-infraestruktura
 
 * Core switch eta router fidagarriak .
 * VLAN eta segmentazio logikoa segurtasun-arrazoiengatik.
