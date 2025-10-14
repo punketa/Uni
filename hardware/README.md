@@ -1,3 +1,6 @@
-# Zerbitzuak
+---
+description: 'Hemen hardware buruzko dokumentazioa:'
+---
 
-Zerbitzuen dokumentazioa hemen.
+# Hardware
+

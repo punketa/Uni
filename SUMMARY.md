@@ -14,6 +14,7 @@
   * [DHCP](sareak/dhcp.md)
   * [DNS](sareak/dns.md)
   * [Jitsi](sareak/jitsi.md)
+  * [Sare Eskema](sareak/sare-eskema.md)
 * [Segurtasuna](segurtasuna/README.md)
   * [Kontingentzia-plana](segurtasuna/kontingentzia-plana.md)
 * [Sistemak](sistemak/README.md)
