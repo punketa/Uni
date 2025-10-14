@@ -1,6 +1,3 @@
----
-description: 'Hemen jasangarritasun plana azalduko dugu:'
----
-
 # Iraunkortasuna
 
+Zerbitzuen dokumentazioa hemen.
