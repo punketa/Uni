@@ -15,4 +15,4 @@ Irakasleen kasuan tutoreak sortu ditugu klase bakoitzak bere tutorea izateko. Et
 
 ### Erabiltzaileen informazioa:
 
-(EXCEL)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
