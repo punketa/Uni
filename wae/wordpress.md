@@ -7,3 +7,5 @@ description: 'Web orrian:'
 Web orria bakoitza bere diseinua egin du, baina guztiok erabili dugu PDF-ren plugina.
 
 Diego: PDF plugina eta Hestia plantilla eta tema.
+
+Adrian: Kubio plugina plantillak IA-kin plantillak&#x20;
