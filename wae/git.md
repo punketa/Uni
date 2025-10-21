@@ -16,3 +16,4 @@ description: 'Github eta Gitbook:'
 
 -Bakoitza bere comitak egin ditu dokumentazioari datuak gehitzen. Azkenean site sortu dugu eta dokumentazioa argitaratu dugu:
 
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
