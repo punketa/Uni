@@ -53,3 +53,15 @@ IP-a jarri
 -Orain bezero batetik horrela ikusten da:
 
 <figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+-DNSak:
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+-Inversa:
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+-Reenviadores:
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
