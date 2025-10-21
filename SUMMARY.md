@@ -9,6 +9,7 @@
   * [Wordpress instalatu](wae/wordpress-instalatu.md)
   * [Erabiltzaileak](wae/erabiltzaileak.md)
   * [Wordpress](wae/wordpress.md)
+  * [GIT](wae/git.md)
 * [Sareak](sareak/README.md)
   * [IPak](sareak/ip.md)
   * [DHCP](sareak/dhcp.md)
