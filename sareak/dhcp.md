@@ -68,4 +68,16 @@ description: 'DHCP zerbitzua erabili dugu:'
 
 3-Domeinuan sartu)
 
+
+
+-Concesiones de direcciones:
+
+Bezeroak:
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 \
+-Opciones de ambito:
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
