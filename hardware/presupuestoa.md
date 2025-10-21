@@ -1,8 +1,8 @@
 ---
-description: 'Gure presupuestua, 30 ikasle, 5 ikasle eta admin batentzako unibertsitaterako:'
+description: 'Gure aurrekontua, 30 ikasle, 5 ikasle eta admin batentzako unibertsitaterako:'
 ---
 
-# Presupuestoa
+# Aurrekontua
 
 | Kategoria | Kopurua (€) |
 | --------- | ----------- |

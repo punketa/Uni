@@ -35,5 +35,5 @@
 * [Hardware](hardware/README.md)
   * [Hardware](hardware/hardware.md)
   * [Software](hardware/software.md)
-  * [Presupuestoa](hardware/presupuestoa.md)
+  * [Aurrekontua](hardware/presupuestoa.md)
   * [Planoak](hardware/planoa.md)
