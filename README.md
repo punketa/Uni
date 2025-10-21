@@ -6,4 +6,4 @@ Gure enpresa Uni-Payo izena du, eta gure zerbitzua Informatikako unibertsitate b
 
 Erronka egiteko ikasgai guztietan ikasitakoa proban jarri beharko dugu. Horretarako, Git-hub eta GitBook erabiliko ditugu errubrikan eskatutakoa azaltzeko eta dokumentatzeko.
 
-<figure><img src=".gitbook/assets/descarga.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/descarga.png" alt="" width="187"><figcaption></figcaption></figure>
